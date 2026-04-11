@@ -1,4 +1,5 @@
 # models.py
+#This module was developed by N.PRANAY as part of an academic software project.
 
 class User:
     def __init__(self, user_id, name):
