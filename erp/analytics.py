@@ -1,4 +1,5 @@
 # analytics.py
+#This module was developed by CH.SANDESH as part of an academic software project.
 
 import numpy as np
 import pandas as pd
