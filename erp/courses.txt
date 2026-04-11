@@ -1,0 +1,4 @@
+101|C Programming|3|CSE
+102|Data Structures|4|CSE
+103|DBMS|4|CSE
+104|OS|4|CSE
