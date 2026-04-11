@@ -1,4 +1,5 @@
-1# main.py
+# main.py
+#This module was developed as a TEAM which is part of an academic software project.
 
 from file_handler import load_data, save_data
 import operations
