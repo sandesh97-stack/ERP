@@ -12,7 +12,7 @@ This project was developed as part of our college coursework to demonstrate the 
 
 The system allows efficient management of students and courses while providing analytical insights such as credit statistics and department-wise distribution.
 
-⚙️ Technologies Used:
+# ⚙️ Technologies Used:
 - Python
 - NumPy
 - Pandas
