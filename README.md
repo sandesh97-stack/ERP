@@ -15,11 +15,12 @@ The system allows efficient management of students and courses while providing a
 - Matplotlib
   
 # 🧠 Core Concepts Implemented
-Object-Oriented Programming (Classes, Inheritance)
-Modular Programming
-File Handling (Data Persistence)
-Data Analysis & Visualization
-📂 Modules / Files
+- Object-Oriented Programming (Classes, Inheritance)
+- Modular Programming
+- File Handling (Data Persistence)
+- Data Analysis & Visualization
+  
+# 📂 Modules / Files
 main.py → Menu-driven interface
 models.py → Class definitions (User, Student, Course, Admin)
 operations.py → Core functionalities (registration, viewing, etc.)
